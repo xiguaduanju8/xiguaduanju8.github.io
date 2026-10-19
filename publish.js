@@ -62,7 +62,7 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-    'https://911tanhua.github.io',
+    'https://xiguaduanju8.github.io',
     'https://xiguaduanju8.pages.dev/',
     'https://gitlab.com/911tanhua'
     
