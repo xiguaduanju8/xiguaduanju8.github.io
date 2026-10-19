@@ -33,18 +33,18 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'xiguaduanju58@gmail.com'
+    'xiguaduanju88@gmail.com'
 ];
 
 var urls=[]; 
-       urls.push(".ah51u64z.cc");  
-       urls.push(".icjdeewc.cc");
-       urls.push(".dgdhwcfor.cc");
+       urls.push(".lw06j19s.cc");  
+       urls.push(".lw06j19s.cc");
+       urls.push(".lw06j19s.cc");
        
           
       
                                                                                  
-var JumpPage="https://tvqqnbkp.cc";
+var JumpPage="https://xiguadj.co";
 
 var newestUrls = [];
 
@@ -63,14 +63,14 @@ for(var i =0;i<urls.length*3;i++){
 // ];
 var otherUrls = [
     'https://911tanhua.github.io',
-    'https://911tanhua.netlify.app',
-    'https://911tanhua.pages.dev',
+    'https://xiguaduanju8.pages.dev/',
     'https://gitlab.com/911tanhua'
+    
 ];
 var foreverUrls = [
-	'https://911tanhua.com',
+	'https://xiguaai.net',
 	JumpPage,
-	'https://911tanhua.net',
+	'https://xiguadj.co',
 	
 ];
 var notices = [
