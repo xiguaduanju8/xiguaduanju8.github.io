@@ -64,7 +64,7 @@ for(var i =0;i<urls.length*3;i++){
 var otherUrls = [
     'https://xiguaduanju8.github.io',
     'https://xiguaduanju8.pages.dev/',
-    'https://gitlab.com/911tanhua'
+    'https://gitlab.com/xiguaduanju'
     
 ];
 var foreverUrls = [
