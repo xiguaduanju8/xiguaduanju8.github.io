@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".yeezzaga.cc");  
+       urls.push(".parwnusy.cc");  
+       urls.push(".yeezzaga.cc");
        urls.push(".vcbaairbt.cc");
-       urls.push(".ltlmqwoo.cc");
        
           
       
